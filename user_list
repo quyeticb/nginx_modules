@@ -1,0 +1,14 @@
+#user_list
+bin
+daemon
+adm
+lp
+sync
+shutdown
+halt
+mail
+news
+uucp
+operator
+games
+nobody
